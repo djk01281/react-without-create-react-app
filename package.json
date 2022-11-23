@@ -1,0 +1,36 @@
+{
+  "name": "react-without-create-react-app",
+  "version": "1.0.0",
+  "description": "a React project created without the create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djk01281/react-without-create-react-app.git"
+  },
+  "author": "djk01281",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djk01281/react-without-create-react-app/issues"
+  },
+  "homepage": "https://github.com/djk01281/react-without-create-react-app#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/eslint-parser": "^7.19.1",
+    "@babel/plugin-transform-runtime": "^7.19.6",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "@babel/runtime": "^7.20.1",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^9.1.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
